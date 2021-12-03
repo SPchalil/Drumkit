@@ -1,4 +1,4 @@
-# Drumkit-Starter
+# Drumkit
  
  Drum kit, a project done towards learning and practicing advanced javascript and DOM manipulation, following Udemy's web development course. 
 
